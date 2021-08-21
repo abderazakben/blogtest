@@ -1,0 +1,2 @@
+# blogtest
+django blog code 
